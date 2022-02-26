@@ -1,0 +1,45 @@
+#hot_search{
+	position:fixed;
+	top:85px;
+	left:572.5px;
+}
+#input_box{
+	width:500px;
+	height:40px;
+	border:2px solid lightgray;
+	border-radius:10px 0 0 10px;
+	margin:0;
+	padding:0;
+	position:fixed;
+	top:190px;
+	left:373px;
+}
+#input_box:hover{
+	border-color:darkgray;
+}
+#search_button{
+	width:120px;
+	height:44px;
+	margin-left:0;
+	border-style:none;
+	border-radius:0 10px 10px 0;
+	background-color:#4a5cff;
+	font-family:"苹方";
+	font-size:18px;
+	color:white;
+	margin:0;
+	padding:0;
+	position:fixed;
+	top:190px;
+	left:873px;
+}
+#search_box #search_button:hover{
+	background-color:#4252e3;
+}
+#search_box img{
+	margin:0;
+	padding:0;
+	position:fixed;
+	top:200px;
+	left:840px;
+}

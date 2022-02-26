@@ -1,0 +1,73 @@
+#news{
+	margin:0;
+	padding:0;
+	position:fixed;
+	top:280px;
+	left:380px;
+}
+#news_0 a{
+		text-decoration:none;
+}
+#news_0 a{
+	font-family:"黑体";
+	font-weight:bold;
+	color:black;
+}
+#news_0 a:hover{
+	color:#4252e3;
+}
+#news_0 span{
+	margin-left:480px;
+	font-size:14px;
+}
+#news_0 span:hover{
+	color:#4252e3;
+	cursor:pointer;
+}
+td{
+	width:330px;
+	height:30px;
+}
+.number{
+	display:inline-block;
+	width:30px;
+	color:#5e5e5e;
+}
+.number_1{
+	display:inline-block;
+	width:30px;
+	color:red;
+}
+.number_2{
+	display:inline-block;
+	width:30px;
+	color:#ff5500;
+}
+.number_3{
+	display:inline-block;
+	width:30px;
+	color:#ffc001;
+}
+#news_1 a{
+	color:black;
+	text-decoration:none;
+}
+#news_1 a:hover{
+	color:#4252e3;
+	text-decoration:underline;
+}
+#news_2 a{
+	color:black;
+	text-decoration:none;
+}
+#news_2 a:hover{
+	color:#4252e3;
+	text-decoration:underline;
+}
+.news_index{
+	padding:0 2px;
+	background-color:#ff5500;
+	border-radius:2px;
+	font-size:12px;
+	color:white;
+}

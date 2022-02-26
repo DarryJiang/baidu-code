@@ -1,0 +1,18 @@
+#navi_left{
+	margin:17px;
+	position:absolute;
+	top:0;
+	left:0;
+	overflow:hidden;
+}
+#navi_left a{
+	text-decoration:none;
+	font-size: 14px;
+	font-family:"苹方";
+	color:#242424;
+	line-height:28px;
+	padding-right:14px;
+}
+#navi_left a:hover{
+	color:blue;
+}
